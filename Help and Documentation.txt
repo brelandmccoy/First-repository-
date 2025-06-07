@@ -1,0 +1,7 @@
+documentation on built-ins and the standards library:
+https://docs.python.org/3/library/index.html (google: "python")
+helpful website with answers for many common questions: stackOverflow
+other free resources:
+    Python cheat sheets von Eric Matthes
+    Automate the boring stuff with Python, 1st edition von AI sweigart
+    Think Python, 2nd edition von Allen B. Downey
